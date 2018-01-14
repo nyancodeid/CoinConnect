@@ -1,5 +1,5 @@
 const Apps = function() {
-	this.name = "Aplikasi"
+	this.name = "Apps"
 }
 
 Apps.prototype.getApps = function() {
