@@ -1,0 +1,1 @@
+const Apps = "API"
