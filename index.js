@@ -4,3 +4,8 @@ function isDone() {
 function isSuccess() {
 	isDone()
 }
+
+module.exports = {
+	isDone: isDone,
+	isSuccess: isSuccess
+}
